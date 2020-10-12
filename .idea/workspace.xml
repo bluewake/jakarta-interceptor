@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23ed0431-2cd5-4187-8e27-ede1fb671fae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ikz4WMvOa4PjOgqCIaXhPvnqSw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23ed0431-2cd5-4187-8e27-ede1fb671fae" name="Default Changelist" comment="" />
+      <created>1602466186043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602466186043</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1521" y="-121" width="1071" height="773" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602466518228">
+      <screen x="-1680" y="-227" width="1680" height="1027" />
+    </state>
+    <state x="-1521" y="-121" width="1071" height="773" key="#com.intellij.execution.impl.EditConfigurationsDialog/-3046.55.1366.745/0.23.1280.777/-1680.-227.1680.1027@-1680.-227.1680.1027" timestamp="1602466518228" />
+    <state width="1242" height="199" key="GridCell.Tab.0.bottom" timestamp="1602469384717">
+      <screen x="-1680" y="-227" width="1680" height="1027" />
+    </state>
+    <state width="1242" height="199" key="GridCell.Tab.0.bottom/-3046.55.1366.745/0.23.1280.777/-1680.-227.1680.1027@-1680.-227.1680.1027" timestamp="1602469384717" />
+    <state width="1242" height="199" key="GridCell.Tab.0.center" timestamp="1602469384716">
+      <screen x="-1680" y="-227" width="1680" height="1027" />
+    </state>
+    <state width="1242" height="199" key="GridCell.Tab.0.center/-3046.55.1366.745/0.23.1280.777/-1680.-227.1680.1027@-1680.-227.1680.1027" timestamp="1602469384716" />
+    <state width="1242" height="199" key="GridCell.Tab.0.left" timestamp="1602469384715">
+      <screen x="-1680" y="-227" width="1680" height="1027" />
+    </state>
+    <state width="1242" height="199" key="GridCell.Tab.0.left/-3046.55.1366.745/0.23.1280.777/-1680.-227.1680.1027@-1680.-227.1680.1027" timestamp="1602469384715" />
+    <state width="1242" height="199" key="GridCell.Tab.0.right" timestamp="1602469384716">
+      <screen x="-1680" y="-227" width="1680" height="1027" />
+    </state>
+    <state width="1242" height="199" key="GridCell.Tab.0.right/-3046.55.1366.745/0.23.1280.777/-1680.-227.1680.1027@-1680.-227.1680.1027" timestamp="1602469384716" />
+    <state x="-1248" y="-1" key="Maven.ArtifactSearchDialog" timestamp="1602467867593">
+      <screen x="-1680" y="-227" width="1680" height="1027" />
+    </state>
+    <state x="-1248" y="-1" key="Maven.ArtifactSearchDialog/-3046.55.1366.745/0.23.1280.777/-1680.-227.1680.1027@-1680.-227.1680.1027" timestamp="1602467867593" />
+    <state x="-1412" y="-132" key="SettingsEditor" timestamp="1602466824591">
+      <screen x="-1680" y="-227" width="1680" height="1027" />
+    </state>
+    <state x="-1412" y="-132" key="SettingsEditor/-3046.55.1366.745/0.23.1280.777/-1680.-227.1680.1027@-1680.-227.1680.1027" timestamp="1602466824591" />
+    <state x="-1309" y="-138" width="645" height="708" key="find.popup" timestamp="1602469043581">
+      <screen x="-1680" y="-227" width="1680" height="1027" />
+    </state>
+    <state x="-1309" y="-138" width="645" height="708" key="find.popup/-3046.55.1366.745/0.23.1280.777/-1680.-227.1680.1027@-1680.-227.1680.1027" timestamp="1602469043581" />
+  </component>
+</project>
